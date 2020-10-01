@@ -8,4 +8,4 @@ Therefore, we aimed to design an easy-to-use application to shorten the gap betw
 
 We use ASP.NET as the main development programming language and Visual Studio as an integrated development environment (IDE).
 
-![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ASP.NET.png"ASP.NET_logo")  ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/VisualStudio.png"VisualStudio_logo")
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ASP.NET.png)  ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/VisualStudio.png)
