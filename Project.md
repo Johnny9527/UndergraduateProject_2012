@@ -10,7 +10,11 @@ We use ASP.NET as the main development programming language
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ASP.NET.png)
 
-and Visual Studio as an integrated development environment (IDE).
+, Visual Studio as an integrated development environment (IDE)
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/VisualStudio.png)
+
+, and SQL Server as Database.
+
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/SQLServer.png)
 
