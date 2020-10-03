@@ -44,7 +44,7 @@ It is easy to use from the aspect of "regular users", only three steps required 
 3. Choose their favorite functions. (Functions are able to be added or removed afterward.)
 [挑選Functions畫面]
 
-Done!
+4. Done!
 [首頁畫面]
 
 On the other hand, from the aspect of "super admin user", it is more similar to backstage management. 
