@@ -36,12 +36,15 @@ while the "regular users" can customize their personal webpage by adding or dele
 It is easy to use from the aspect of "regular users", only three steps required to complete the whole process.
 
 1. Create a personal account when they use this application for the first time.
+
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/NewMember.png)
 
 2. After creating the account, they can select one of their favorite theme templates.
+
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ThemeSelect.png)
 
 3. Choose their favorite functions. (Functions are able to be added or removed afterward.)
+
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/FunctionSelect.png)
 
 4. Done!
@@ -52,22 +55,28 @@ On the other hand, from the aspect of "super admin user", it is more similar to 
 Most of their privileges are focus on managing users' data and systems' structure.
 
 Such as changing the content of applets,
+
 [標題管理圖片]
 
 or modify the theme templates.
+
 [主題管里圖片]
 
 Although this was only a course project from undergraduate, we tried our best to include further features such as customized dragging function,
+
 [拖拉圖片]
 
 message board function, which can chat or share ideas with others,
+
 [留言板圖片]
 
 and activities query function, which can check for the upcoming activities.
+
 [活動查詢圖片]
 
 I have learned lots of things during this undergraduate project, not only in fulfilling the textbook's knowledge into real software development 
 but also improve my collaborating skill through teamwork.
+
 [首頁圖]
 
 [好站連結圖]
