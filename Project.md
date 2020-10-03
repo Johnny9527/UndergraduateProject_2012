@@ -36,7 +36,7 @@ while the "regular users" can customize their personal webpage by adding or dele
 It is easy to use from the aspect of "regular users", only three steps required to complete the whole process.
 
 1. Create a personal account when they use this application for the first time.
-[加入會員畫面]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/NewMember.png)
 
 2. After creating the account, they can select one of their favorite theme templates.
 [挑選Template畫面]
