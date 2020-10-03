@@ -56,30 +56,30 @@ Most of their privileges are focus on managing users' data and systems' structur
 
 Such as changing the content of applets,
 
-[標題管理圖片]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/BackstageManagement_1.png)
 
 or modify the theme templates.
 
-[主題管里圖片]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/BackstageManagement_2.png)
 
 Although this was only a course project from undergraduate, we tried our best to include further features such as customized dragging function,
 
-[拖拉圖片]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/Drag.png)
 
 message board function, which can chat or share ideas with others,
 
-[留言板圖片]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/MessageBoard.png)
 
 and activities query function, which can check for the upcoming activities.
 
-[活動查詢圖片]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ActivitiesQuery.png)
 
 I have learned lots of things during this undergraduate project, not only in fulfilling the textbook's knowledge into real software development 
 but also improve my collaborating skill through teamwork.
 
-[首頁圖]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/Frontstage_1.png)
 
-[好站連結圖]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/Frontstage_2.png)
 
 ### Acknowledgment:
 I really appreciated my three other team members who co-work with me during that time 
