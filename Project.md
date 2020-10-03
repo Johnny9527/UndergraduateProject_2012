@@ -31,6 +31,20 @@ while the "regular users" can customize their personal webpage by adding or dele
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/UGP_SystemStructure.png)
 
 
+### Application Demonstration:
 
-### Application Interface:
+It's easy to use from the aspect of "regular users", only three steps required to complete the whole process.
+
+1. Create a personal account when they use this application for the first time.
+[加入會員畫面]
+
+2. After creating the account, they can select one of their favorite theme templates.
+[挑選Template畫面]
+
+3. Choose their favorite functions. (Functions are able to be added or removed afterward.)
+[挑選Functions畫面]
+
+Done!
+[首頁畫面]
+
 
