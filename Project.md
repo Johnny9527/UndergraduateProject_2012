@@ -45,6 +45,7 @@ It is easy to use from the aspect of "regular users", only three steps required 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/FunctionSelect.png)
 
 4. Done!
+
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/HomePage.png)
 
 On the other hand, from the aspect of "super admin user", it is more similar to backstage management. 
