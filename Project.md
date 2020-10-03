@@ -11,7 +11,7 @@ We use ASP.NET as the main development programming language
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ASP.NET.png)
 
-, Visual Studio as an integrated development environment (IDE)
+, Visual Studio as an Integrated Development Environment (IDE)
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/VisualStudio.png)
 
@@ -21,6 +21,15 @@ We use ASP.NET as the main development programming language
 
 
 ### System Structure:
+
+In the system structure, we divided users into two different types, one is called "regular users", which include most of the people, 
+and the other is called "super admin user", which behalf as the IT manager of the regular users. 
+
+Each of them retains different privileges in manipulating functions, such as the "super admin user" has the right to check and modify all users' accounts, 
+while the "regular users" can customize their personal webpage by adding or deleting applet functions.
+
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/UGP_SystemStructure.png)
+
 
 
 ### Application Interface:
