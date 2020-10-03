@@ -39,13 +39,13 @@ It is easy to use from the aspect of "regular users", only three steps required 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/NewMember.png)
 
 2. After creating the account, they can select one of their favorite theme templates.
-[挑選Template畫面]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ThemeSelect.png)
 
 3. Choose their favorite functions. (Functions are able to be added or removed afterward.)
-[挑選Functions畫面]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/FunctionSelect.png)
 
 4. Done!
-[首頁畫面]
+![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/HomePage.png)
 
 On the other hand, from the aspect of "super admin user", it is more similar to backstage management. 
 Most of their privileges are focus on managing users' data and systems' structure.
