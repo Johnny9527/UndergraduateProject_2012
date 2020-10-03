@@ -33,7 +33,7 @@ while the "regular users" can customize their personal webpage by adding or dele
 
 ### Application Demonstration:
 
-It's easy to use from the aspect of "regular users", only three steps required to complete the whole process.
+It is easy to use from the aspect of "regular users", only three steps required to complete the whole process.
 
 1. Create a personal account when they use this application for the first time.
 [加入會員畫面]
@@ -46,5 +46,33 @@ It's easy to use from the aspect of "regular users", only three steps required t
 
 Done!
 [首頁畫面]
+
+On the other hand, from the aspect of "super admin user", it is more similar to backstage management. 
+Most of their privileges are focus on managing users' data and systems' structure.
+
+Such as changing the content of applets,
+[標題管理圖片]
+
+or modify the theme templates.
+[主題管里圖片]
+
+Although this was only a course project from undergraduate, we tried our best to include further features such as customized dragging function,
+[拖拉圖片]
+
+message board function, which can chat or share ideas with others,
+[留言板圖片]
+
+and activities query function, which can check for the upcoming activities.
+[活動查詢圖片]
+
+I have learned lots of things during this undergraduate project, not only in fulfilling the textbook's knowledge into real software development 
+but also improve my collaborating skill through teamwork.
+[首頁圖]
+
+[好站連結圖]
+
+### Acknowledgment:
+I really appreciated my three other team members who co-work with me during that time 
+and the professors who gave our project a high recognition at the final demonstration.
 
 
