@@ -1,4 +1,4 @@
-### Purpose:
+## Purpose:
 
 As Taiwan has already stepped into an aging society, we need to pay more attention to the welfare of elders in various aspects.
 
@@ -7,7 +7,7 @@ Meanwhile, researches have shown that the rapid development of technology has in
 high-tech products. Therefore, we aimed to design an easy-to-use application to shorten the gap between elders and innovative technologies.
 
 
-### Development Tools:
+## Development Tools:
 
 We use ASP.NET as the main development programming language
 
@@ -22,7 +22,7 @@ We use ASP.NET as the main development programming language
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/SQLServer.png)
 
 
-### System Structure:
+## System Structure:
 
 In the system structure, we divided users into two different types, one is called "regular users", which include most of the people,
 
@@ -35,7 +35,7 @@ users' accounts, while the "regular users" can customize their personal webpage 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/UGP_SystemStructure.png)
 
 
-### Application Demonstration:
+## Application Demonstration:
 
 It is easy to use from the aspect of "regular users", only three steps required to complete the whole process.
 
@@ -90,7 +90,7 @@ software development but also improving my collaborating skill through teamwork.
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/Frontstage_2.png)
 
 
-### Acknowledgment:
+## Acknowledgment:
 
 I really appreciated my three other team members who co-work with me during that time 
 
