@@ -2,9 +2,9 @@
 
 As Taiwan has already stepped into an aging society, we need to pay more attention to the welfare of elders in various aspects.
 
-Meanwhile, researches have shown that the rapid development of technology has increased the burden for elders in learning to manipulate high-tech products.
+Meanwhile, researches have shown that the rapid development of technology has increased the burden for elders in learning to manipulate 
 
-Therefore, we aimed to design an easy-to-use application to shorten the gap between elders and innovative technologies.
+high-tech products. Therefore, we aimed to design an easy-to-use application to shorten the gap between elders and innovative technologies.
 
 
 ### Development Tools:
@@ -28,9 +28,9 @@ In the system structure, we divided users into two different types, one is calle
 
 and the other is called "super admin user", which behalf as the IT manager of the regular users. 
 
-Each of them retains different privileges in manipulating functions, such as the "super admin user" has the right to check and modify all users' accounts,
+Each of them retains different privileges in manipulating functions, such as the "super admin user" has the right to check and modify all
 
-while the "regular users" can customize their personal webpage by adding or deleting applet functions.
+users' accounts, while the "regular users" can customize their personal webpage by adding or deleting applet functions.
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/UGP_SystemStructure.png)
 
@@ -81,9 +81,9 @@ and activities query function, which can be used to check for the upcoming activ
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/ActivitiesQuery.png)
 
-I have learned lots of things during this undergraduate project, not only in fulfilling the textbook's knowledge into real software development 
+I have learned lots of things during this undergraduate project, not only fulfilling the textbook's knowledge into real-world 
 
-but also improve my collaborating skill through teamwork.
+software development but also improving my collaborating skill through teamwork.
 
 ![](https://github.com/Johnny9527/UndergraduateProject/blob/master/picture/Frontstage_1.png)
 
