@@ -6,6 +6,6 @@
 
 * As the original code has already lost by time, therefore, I can only explain the structure of it through the documentations.
 
- * For further information, please refers to "Project.md: https://github.com/Johnny9527/UndergraduateProject_2012/blob/master/Project.md".
+  * For further information, please refers to "Project.md: https://github.com/Johnny9527/UndergraduateProject_2012/blob/master/Project.md".
 
  
