@@ -1,4 +1,4 @@
-# Undergraduate Project - An Auto-website Generator Designed For Elders
+# Undergraduate Project - An Auto-website Generator Designed for Elders
 
 * I studied Management Information Systems as my major for undergraduate, and receive a BBA Bachelor's title from National Chiayi University of Taiwan in 2013.
 
